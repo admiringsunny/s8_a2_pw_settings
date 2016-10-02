@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">S8_a2_pw_settings</string>
+
+    <string-array name="array_list_preference_entries">
+        <item>1 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 minute</item>
+    </string-array>
+
+    <string-array name="array_list_preference_entry_values">
+        <item>1 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 minute</item>
+    </string-array>
+
+</resources>
